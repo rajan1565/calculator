@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  border: solid black;
+  height: 600px;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 12px;
+  border-radius: 8px;
+  background-color: black;
+  border-width: 6px;
+}
+
+.header {
+  border: solid white;
+  height: 150px;
+  border-radius: 4px;
+}
+
+.input {
+  height: 110px;
+  width: 410px;
+  margin: 20px;
+  border-style: groove;
+  font-size: 50px;
+  
+  background-color: whitesmoke;
+}
+
+.footer {
+  border: solid white;
+  height: 438px;
+  background-color: black;
+  border-radius: 1px;
+}
+
+.table {
+    height: 100%;
+    width: 100%;
+    border-color: white;
+       
+}
+button {
+    height: 100%;
+    width: 100%;
+    font-size: 25px;
+    border-width: 10px;
+    
+}
